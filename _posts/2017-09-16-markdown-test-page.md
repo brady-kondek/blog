@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: Other Stuff
+tags: Other-Stuff
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
