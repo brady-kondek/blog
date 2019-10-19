@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: https://blog.bradykondek.ga
-baseurl: /project
+baseurl: 
 
 # variables
 name: Brady Kondek Blog
