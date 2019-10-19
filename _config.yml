@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: https://blog.bradykondek.ga
 baseurl: /project
 
 # variables
-name: Your Site Name
+name: Brady Kondek Blog
 description: Your description here
 google_verification: null
 
